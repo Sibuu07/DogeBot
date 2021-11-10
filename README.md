@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://pbs.twimg.com/media/Erh9GtGXYAETLkU?format=jpg&name=900x900" alt="Xeon" width="170" />
+<img src="https://images.app.goo.gl/opB9n3Sbe8N3cAMR9" alt="Xeon" width="170" />
 
 ## Doge Bot
 
