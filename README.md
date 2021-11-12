@@ -33,17 +33,17 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 
 ## `CHANGE SESSION`
 
-[`Click Here`](https://github.com/DGXeon/DogeBot/blob/master/session.json#L1)
+[`Click Here`](https://github.com/Sibuu07/DogeBot/blob/master/session.json#L1)
 
 ## `SETTING`
 
-- CHANGE OWNER NUMBER [Here](https://github.com/DGXeon/DogeBot/blob/master/index.js#L136)
-- CHANGE OWNER NAME [Here](https://github.com/DGXeon/DogeBot/blob/master/index.js#L138)
+- CHANGE OWNER NUMBER [Here](https://github.com/Sibuu07/DogeBot/blob/master/index.js#L136)
+- CHANGE OWNER NAME [Here](https://github.com/Sibuu07/DogeBot/blob/master/index.js#L138)
 
 # Installation
 ## Clone Repo & Installation dependencies
 ```bash
-🦄 git clone https://github.com/DGXeon/DogeBot.git
+🦄 git clone https://github.com/Sibuu07/DogeBot.git
 🦄 cd DogeBot
 🦄 npm start
 ```
@@ -60,7 +60,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 🦄 pkg install ffmpeg -y 
 🦄 pkg install wget
 🦄 pkg install imagemagick -y
-🦄 git clone https://github.com/DGXeon/DogeBot
+🦄 git clone https://github.com/Sibuu07/DogeBot
 🦄 cd DogeBot
 🦄 npm install
 🦄 npm start
